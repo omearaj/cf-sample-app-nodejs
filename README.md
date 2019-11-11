@@ -1,5 +1,5 @@
 # Node.js Sample App
 
-```cf push``` is fun!
+```cf push```
 
 https://docs.cloudfoundry.org/buildpacks/node/node-tips.html
